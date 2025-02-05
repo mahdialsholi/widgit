@@ -1,3 +1,4 @@
 some configration that were check in after init
 need to pull this file down 
 Adding some additional confirmation 
+Found a couple of more config values that are needed
