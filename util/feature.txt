@@ -1,5 +1,6 @@
 Feature 1 implementation 
 
 Feature 2 implementation 
+Adding ability to handle remote multible widgits
 
 Feature 3 implementation 
